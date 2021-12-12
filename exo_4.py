@@ -103,7 +103,7 @@ class BarNum(Number):
 
 f1 = FooNumber([])
 f1.check(6)
-f1.check(7)
+f1.check(12)
 print(f1.results,sep='\n')
 
 b1 = BarNum()
